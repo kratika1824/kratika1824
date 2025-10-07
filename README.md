@@ -2,8 +2,6 @@
 
 As a passionate software developer, I strive to create innovative and efficient solutions while continuously learning and exploring emerging technologies to make a meaningful impact. 
  
-
-- 🌱 I’m currently learning **Microservices**
 - 💬 Ask me about **Java Development**  
 - 📫 Reach me at **patidarkratika18@gmail.com** or through my social media handles  
 
