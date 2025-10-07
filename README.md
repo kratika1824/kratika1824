@@ -11,10 +11,11 @@ Software Developer from India on a journey to become a master of all trades by l
 
 ### Connect with me:  
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/kratikapatidar1824/)
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/kratika-patidar-502531286)
 [<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://github.com/kratika1824)
 [<img align="left" alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" />](https://www.instagram.com/)
 <br/><br/>
+
 
 ---
 
