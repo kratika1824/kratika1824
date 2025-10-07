@@ -48,5 +48,4 @@ Software Developer from India on a journey to become a master of all trades by l
 
 ---
 
-### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kratika1824&layout=compact&theme=tokyonight)
+
