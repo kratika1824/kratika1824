@@ -1,6 +1,6 @@
 # Hi 👋, I'm Kratika Patidar  
 
-Software Developer from India on a journey to become a master of all trades by learning something new everyday.  
+As a passionate software developer, I strive to create innovative and efficient solutions while continuously learning and exploring emerging technologies to make a meaningful impact. 
  
 
 - 🌱 I’m currently learning **Microservices**
